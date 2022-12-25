@@ -1,0 +1,30 @@
+.topnav{
+    background-color: rgb(46, 213, 38)214);
+    overflow:hidde;
+}
+.topnav a {
+    float: none;
+    color: #f2f2f2;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:solid;
+    fonnt-size:15px;
+
+}
+.topnav a:hover{
+    background-color: black;
+    color:red
+}
+img{
+    border:solid black;
+    width: 350px;
+
+}
+img{
+    border-radius: 100%;
+    opacity:25;
+}
+quote{
+    font-size: larger;
+    font-family: sans-serif;
+}
